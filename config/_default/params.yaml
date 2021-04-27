@@ -16,19 +16,19 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: '@WillBall12'
+twitter: 'https://www.twitter.com/@WillBall12'
 
 # Contact (edit or remove options as required)
 
-email: william.ball@abdn.ac.uk
-address:
-  city: Aberdeen
-  country: Scotland
-  country_code: GB
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    link: 'https://twitter.com/@willball12'
+#email: william.ball@abdn.ac.uk
+#address:
+#  city: Aberdeen
+#  country: Scotland
+#  country_code: GB
+#contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    link: 'https://twitter.com/@willball12'
 
 # Site header
 
