@@ -7,5 +7,6 @@ image:
 summary: Tutorial for creating heatmaps, mosaic plots, stacked bar charts and a riverplot of two ordinal variables
 tags: 
 - dataviz
+- R tutorial
 title: Ordinal Variable Plot Tutorial for R
 ---

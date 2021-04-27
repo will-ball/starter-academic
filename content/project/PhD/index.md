@@ -3,6 +3,7 @@ title: PhD - Health Inequalities in the British Nursing Workforce
 summary: PhD Project exploring the self-rated health of British Nurses using a UK consistent area deprivation measure.
 tags:
 - PhD
+- deprivation
 date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

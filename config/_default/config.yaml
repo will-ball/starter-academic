@@ -5,7 +5,7 @@
 
 title: William Ball - Research Fellow # Website name
 baseurl: 'https://will-ball.netlify.app' # Website URL
-copyright: '© {year} William Ball."' # Footer text, e.g. '© {year} Me'
+copyright: '© Copyright {year} William Ball.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

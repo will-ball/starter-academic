@@ -8,5 +8,6 @@ summary: Tutorial for creating choropleth maps of deprivation in Ireland using R
 tags: 
 - dataviz
 - R tutorial
+- deprivation
 title: Mapping Deprivation in Ireland
 ---
