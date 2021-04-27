@@ -4,7 +4,7 @@ external_link: https://github.com/will-ball/scot_covid/tree/master/Plots
 image:
   caption: Hospital and Intensive Care bed occupancy trends
   focal_point: Smart
-summary: These plots were creating using R statistics, using Open Data from the Scottish Government, to help visualise testing, hospitalisations, Intensive Care bed occupancy and more.
+summary:
 tags:
 title: COVID-19 Plots from Scottish Open Data
 ---

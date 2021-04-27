@@ -4,7 +4,7 @@ external_link: https://will-ball.github.io/OSM-RoadMaps/
 image:
   caption: Line Street Maps
   focal_point: Smart
-summary: Tutorial for creating line street maps using OpenStreetMap Data in R
+summary:
 tags: 
 - dataviz
 - R tutorial

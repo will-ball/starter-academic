@@ -4,7 +4,7 @@ external_link: https://will-ball.github.io/Ireland-Deprivation-Mapping/
 image:
   caption: Mapping Deprivation in Ireland
   focal_point: Smart
-summary: Tutorial for creating choropleth maps of deprivation in Ireland using R
+summary:
 tags: 
 - dataviz
 - R tutorial
