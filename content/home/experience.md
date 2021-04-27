@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 55
 
 title: Experience
 subtitle:
@@ -22,28 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Research Fellow
+    company: University of Aberdeen
+    company_url: 'https://www.abdn.ac.uk'
+    company_logo: 
+    location: Aberdeen, Scotland
+    date_start: '2021-03-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Researching population health and inequalities using linked health records and administrative datasets. This role is part of the Networked Data Lab, a collaborative network of research analysts working in an Open and Reproducible method to address key health challenges.
+  - title: PhD Researcher
+    company: Edinburgh Napier University
+    company_url: 'https://www.napier.ac.uk'
+    company_logo:
+    location: Edinburgh, Scotland
+    date_start: '2015-10-01'
+    date_end: ''
+    description: Researching inequalities in self-rated health using Census-derived individual level data linked to a UK-consistent small area deprivation index.
+  - title: Cardiac Nurse
+    company:
+    company_url:
+    company_logo:
+    location:
+    date_start: '2015-08-01'
+    date_end: '2021-03-01'
+    description: Working clinically in Cardiac Catheterisation Labs as a Registered Nurse.
 
 design:
   columns: '2'
