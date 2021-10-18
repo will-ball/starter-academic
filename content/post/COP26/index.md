@@ -49,7 +49,7 @@ I'm looking forward to being there in person and sharing my experiences with you
 
 **What are the chances of success?**
 
-Great Thunberg [was not optimistic about the conference](https://www.theguardian.com/environment/ng-interactive/2021/sep/25/greta-thunberg-i-really-see-the-value-of-friendship-apart-from-the-climate-almost-nothing-else-matters) and said "Nothing has changed from previous years really. The leaders will say 'we'll do this and we'll do this, and we will put our forces together and achieve this', and then they will do nothing. Maybe some symbolic things and creative accounting and things that don't really have a big impact. We can have as many COPs as we want, but nothing real will come out of it.".
+Greta Thunberg [was not optimistic about the conference](https://www.theguardian.com/environment/ng-interactive/2021/sep/25/greta-thunberg-i-really-see-the-value-of-friendship-apart-from-the-climate-almost-nothing-else-matters) and said "Nothing has changed from previous years really. The leaders will say 'we'll do this and we'll do this, and we will put our forces together and achieve this', and then they will do nothing. Maybe some symbolic things and creative accounting and things that don't really have a big impact. We can have as many COPs as we want, but nothing real will come out of it.".
 
 **Where can I find out more?**
 
