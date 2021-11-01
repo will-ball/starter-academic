@@ -15,6 +15,7 @@ subtitle: 'What is it and why is it important?'
 summary: My first post in a series about COP26 taking place in Glasgow November 2021
 tags:
 - Climate
+- COP26
 ---
 
 This November COP26 is coming to Glasgow and I will be attending on behalf of the University of Aberdeen who have been given Official Observer status. This post is the first a series which I am planning to raise awareness about the conference, what I'll be doing while I'm there and how climate change impacts on health and inequalities.
@@ -55,3 +56,5 @@ Greta Thunberg [was not optimistic about the conference](https://www.theguardian
 
 [UN Climate Change Conference Official Website](https://ukcop26.org/)
 
+
+If you liked this post, check out the 2nd in this series [here](https://wpball.com/post/cop26-2/).

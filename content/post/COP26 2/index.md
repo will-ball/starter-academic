@@ -10,11 +10,12 @@ image:
   placement: 3
 math: true
 comments: true
-title: COP26 #2
+title: COP26 Post 2
 subtitle: 'The start of something big?'
 summary: My second blog in a series about COP26 exploring my feelings on my first day in Glasgow
 tags:
 - Climate
+- COP26
 ---
 
 This afternoon I arrived in the City of Glasgow to attend COP26 as an official Observer on behalf of the University of Aberdeen.
