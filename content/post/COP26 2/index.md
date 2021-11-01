@@ -26,7 +26,7 @@ Alongside these world leaders and their delegations, corporate interests are als
 
 Leaders from around the world are here but the extent of their influence is hugely variable. Countries from the global south and those with developing economies will hold little sway in the coming negotiations. These places, which have contributed the least to causing climate change & who will suffer the most, are marginalised in these discussions.
 
-Organisational failings in the run up to the conference have exacerbated this issue too. Problems and delays with the accreditation and visa processes, lack of access to vaccinations, changing travel restrictions as well as expensive and scare accommodation options [have all contributed to this problem](https://www.theguardian.com/environment/2021/oct/30/cop26-will-be-whitest-and-most-privileged-ever-warn-campaigners).
+Organisational failings in the run up to the conference have exacerbated this issue too. Problems and delays with the accreditation and visa processes, lack of access to vaccinations, changing travel restrictions as well as expensive and scarce accommodation options [have all contributed to this problem](https://www.theguardian.com/environment/2021/oct/30/cop26-will-be-whitest-and-most-privileged-ever-warn-campaigners).
 
 My first impression of this conference is that it is highly exclusionary. I worry that important and constructive discussions, which will happen in this city during these weeks and beyond, will be overshadowed by a lack of ambition and commitment to action at the international level. I hope that I am proved wrong.
 
