@@ -10,7 +10,7 @@ image:
   placement: 3
 math: true
 comments: true
-title: COP26 #3
+title: COP26 Post 3
 subtitle: 'Why isn't health on the agenda?'
 summary: My third post in a series about COP26 where I will discuss health, inequalities and climate change
 tags:
@@ -18,9 +18,9 @@ tags:
 - COP26
 ---
 
-**Health is not a priority**
-
 I'm a Registered Nurse and a Population Health researcher. I'm also very concerned about climate change and the challenges it poses to us as a global community. One of my big motivations for attending COP26 was exploring the relationship between climate change and health.
+
+**Health is not a priority**
 
 In the first few days that I've been here I have listening to talks, reviewed media reports and read about the ongoing international negotiations. I am struck by how little focus there is on health.
 
