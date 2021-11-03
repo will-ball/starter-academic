@@ -6,17 +6,18 @@ categories:
 date: "2021-11-03"
 diagram: true
 image:
-  caption: 'Image credit: [**William Ball**](https://twitter.com/WillBall12)'
+  caption: ''
   placement: 3
 math: true
 comments: true
 title: COP26 Post 3
 subtitle: 'Why isn't health on the agenda?'
-summary: My third post in a series about COP26 where I will discuss health, inequalities and climate change
+summary: My third blog in a series about COP26 exploring health, inequalities and climate change
 tags:
 - Climate
 - COP26
 ---
+
 
 I'm a Registered Nurse and a Population Health researcher. I'm also very concerned about climate change and the challenges it poses to us as a global community. One of my big motivations for attending COP26 was exploring the relationship between climate change and health.
 
