@@ -33,7 +33,9 @@ I think when we talk about these two issues there are strong similarities. Both 
 
 Health outcomes are generally worst in the most deprived places and for people with the least access to resources which can improve their health. The worst effects of climate change are and will be felt the hardest by those in the Global South, who are **simultaneously the most vulnerable and those who contribute the least to causing the problem**.
 
-Finally, one of the biggest similarities is that the solutions to these issues are very often framed around behavioural change and individual actions. Sections of the media, national governments and industries promote this approach to distract from their own questionable behaviour and responsibilities. If we are to face down these challenges, and have any hope of real change, we must acknowledge the true barriers and work to dismantle them.
+Finally, one of the biggest similarities is that the solutions to these issues are very often framed around behavioural change and individual actions. Sections of the media, national governments and industries promote this approach to distract from their own questionable behaviour and responsibilities.
+
+If we are to face down these challenges, and have any hope of real change, we must acknowledge the true barriers and work to dismantle them.
 
 **Next Blog Post**
 
