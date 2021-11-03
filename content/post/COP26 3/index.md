@@ -10,7 +10,7 @@ image:
   placement: 3
 math: true
 comments: true
-title: COP26 #3
+title: COP26 Post 3
 subtitle: 'Why is health not on the agenda?'
 summary: My third post in a series about COP26 talking about health and inequalities
 tags:
