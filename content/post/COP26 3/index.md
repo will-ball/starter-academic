@@ -10,9 +10,9 @@ image:
   placement: 3
 math: true
 comments: true
-title: COP26 Post 3
+title: COP26 #3
 subtitle: 'Why isn't health on the agenda?'
-summary: My third blog in a series about COP26 where I discuss health, inequalities and climate change
+summary: My third post in a series about COP26 where I will discuss health, inequalities and climate change
 tags:
 - Climate
 - COP26
