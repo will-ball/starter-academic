@@ -6,9 +6,9 @@ categories:
 date: "2021-11-02"
 diagram: true
 image:
-  caption: 'Photo Credit: [**Will Ball**](https://www.twitter.com/WillBall12)'
   placement: 3
 math: true
+comments: true
 title: COP26, Climate and Health
 subtitle: 'Why isn't health on the agenda?'
 summary: My third blog in a series about COP26 exploring health, inequalities and climate change
