@@ -6,7 +6,7 @@ categories:
 date: "2021-11-03"
 diagram: true
 image:
-  caption: ''
+  caption: 'Photo Credit: [**Will Ball**](https://www.twitter.com/WillBall12)'
   placement: 3
 math: true
 comments: true
@@ -16,11 +16,9 @@ summary: My third blog in a series about COP26 exploring health, inequalities an
 tags:
 - Climate
 - COP26
-draft: false
 ---
 
-
-I'm a Registered Nurse and a Population Health researcher. I'm also very concerned about climate change and the challenges it poses to us as a global community. One of my big motivations for attending COP26 was exploring the relationship between climate change and health.
+I'm a Registered Nurse and a Population Health researcher. I'm also very concerned about climate change and the challenges it poses to us as a global community. One of my big motivations for attending COP26 was exploring the relationship between climate change and health, as well as the similarities between the two issues.
 
 **Health is not a priority**
 
