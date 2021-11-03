@@ -16,7 +16,6 @@ summary: My third blog in a series about COP26 where I discuss health, inequalit
 tags:
 - Climate
 - COP26
-- Health Inequality
 ---
 
 #### Health is not a priority
