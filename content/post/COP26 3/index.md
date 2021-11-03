@@ -18,7 +18,7 @@ tags:
 - COP26
 ---
 
-#### Health is not a priority
+**Health is not a priority**
 
 I'm a Registered Nurse and a Population Health researcher. I'm also very concerned about climate change and the challenges it poses to us as a global community. One of my big motivations for attending COP26 was exploring the relationship between climate change and health.
 
@@ -26,7 +26,7 @@ In the first few days that I've been here I have listening to talks, reviewed me
 
 Each day at the conference has a theme. These include energy, nature, finance, transport and gender but nothing on arguably the most important measure of societal success: human health and well-being.
 
-#### Health Inequalities and Climate Change
+**Health Inequalities and Climate Change**
 
 I think when we talk about these two issues there are strong similarities. Both are problems that are largely caused by systemic forces. Social, economic and power structures create and reinforce problems which are not equally distributed.
 
@@ -34,6 +34,6 @@ Health outcomes are generally worst in the most deprived places and for people w
 
 Finally, one of the biggest similarities is that the solutions to these issues are very often framed around behavioural change and individual actions. Sections of the media, national governments and industries promote this approach to distract from their own questionable behaviour and responsibilities.
 
-##### Next Blog Post
+**Next Blog Post**
 
 Later this week I'll be returning to Aberdeen and will be writing up some of my thoughts and reflections around COP26 and perhaps suggesting a few ways the whole thing could be done better!
