@@ -6,5 +6,7 @@ image:
   focal_point: Smart
 summary: 
 tags:
+- dataviz
+- deprivation
 title: SIMD2020 Domain Explorer
 ---
