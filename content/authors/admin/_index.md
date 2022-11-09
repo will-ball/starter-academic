@@ -49,6 +49,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/will-ball
+- icon: mastodon
+  icon_pack: fab
+  link: https://mastodon.scot/@willball12#
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/William_Ball6
