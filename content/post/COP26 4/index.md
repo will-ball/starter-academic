@@ -61,3 +61,4 @@ I have many thoughts about what we can and should do to address climate change b
 I propose a Global Citizen's Assembly on Climate, to coincide with COP meetings. For those who don't know, a citizen's assembly can be a form of participatory or deliberative democracy. A cross-section of people from around the world would convene to study the topic of climate change and explore potential methods of addressing the problem. They would engage with experts to establish facts and produce a set of recommendations for action to be taken by UN member states.
 
 Running alongside (or just before) the international negotiations, this process could provide much needed accountability as well as prioritising the voices of real people and otherwise marginalised or excluded voices.
+
